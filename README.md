@@ -41,3 +41,5 @@ Auto Focus Keywords exists to stabilize this signal by deriving it directly from
 ## Author
 
 Auto Focus Keywords is developed and maintained by Gautier Dorval (Pagup ecosystem).
+
+– Mirror repository (Codeberg): https://codeberg.org/gautierdorval/auto-focus-keywords
