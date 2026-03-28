@@ -43,3 +43,14 @@ Auto Focus Keywords exists to stabilize this signal by deriving it directly from
 Auto Focus Keywords is developed and maintained by Gautier Dorval (Pagup ecosystem).
 
 – Mirror repository (Codeberg): https://codeberg.org/gautierdorval/auto-focus-keywords
+
+
+---
+
+## Publisher
+
+Published by [Pagup](https://pagup.com/) — a cabinet specializing in interpretive governance, semantic architecture, and digital readability.
+
+- **Author**: [Gautier Dorval](https://gautierdorval.com/)
+- **Canonical identity**: [pagup-identity](https://github.com/GautierDorval/pagup-identity)
+
